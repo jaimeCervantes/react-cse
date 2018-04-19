@@ -1,0 +1,18 @@
+.pw-list-item {
+  margin-bottom: 10px;
+}
+
+.flex {
+  display: flex;
+}
+
+.flex > p {
+  flex: 9;
+  margin-top: 0;
+}
+
+.flex > img {
+  flex: 1;
+  margin-right: 10px;
+}
+
